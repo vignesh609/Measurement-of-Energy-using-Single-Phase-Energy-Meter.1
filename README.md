@@ -1,17 +1,15 @@
-# Aim:
+Name: Vignesh P
+Reg No : 212222210027
+
+Aim:
 To measure energy using Single Phase Energy Meter
 
-## Procedure:
+Procedure:
 Step 1: Make Connections as per the instructions given below:
 
-S1 of MCB - A1 of Ammeter and A2 of Ammeter - V1 of Voltmeter
-V1 of Voltmeter - Mw of Wattmeter and Mw of Wattmeter - C of Wattmeter
-S2 of MCB - V of Wattmeter and V of Wattmeter - N1 of Energy Meter
-N2 of Energy Meter - L2 of Load and Le of Energy Meter - L1 of Load
-L of Wattmeter - M of Energy Meter and S2 of MCB - V2 of Voltmeter
-NOTE : If wire is wrongly connected, Click on node number to detach the wire.
+S1 of MCB - A1 of Ammeter and A2 of Ammeter - V1 of Voltmeter V1 of Voltmeter - Mw of Wattmeter and Mw of Wattmeter - C of Wattmeter S2 of MCB - V of Wattmeter and V of Wattmeter - N1 of Energy Meter N2 of Energy Meter - L2 of Load and Le of Energy Meter - L1 of Load L of Wattmeter - M of Energy Meter and S2 of MCB - V2 of Voltmeter NOTE : If wire is wrongly connected, Click on node number to detach the wire.
 
-Step 2: Click on   CHECK  button for checking the connections.
+Step 2: Click on CHECK button for checking the connections.
 
 Step 3: Click on the mcb off MCB to Turn ON mcb on the supply.
 
@@ -21,41 +19,32 @@ Step 5: Count the number of times Green LED blinks in 1 min (Meter Counter) by u
 
 Step 6: Enter the number of times Green LED blinks in 1 min (Meter Counter).
 
-Step 7: Click on   ADD  button to add the readings to the Observation Table.
+Step 7: Click on ADD button to add the readings to the Observation Table.
 
 Step 8: Add different readings to the table by selecting different number of bulbs.
 
-Step 9: Click on   PRINT  button to print the webpage.
+Step 9: Click on PRINT button to print the webpage.
 
-Step 10: Click on   RESET  button to refresh the webpage.
+Step 10: Click on RESET button to refresh the webpage.
 
-## FORMULA
-Actual Energy (A) = 
-V*I*T /1000     kw-hr
+FORMULA
+Actual Energy (A) = VIT /1000 kw-hr
 
 Recorded Energy (R) = Number of Impulse (1min)/Meter Constant
 
 Meter Constant = 3200 Imp/kw-hr
 
-Relative Error = 
-R−A /A *100%
+Relative Error = R−A /A *100%
 
-Enter the no. of times Green LED blinks in 1min(Meter Counter):  
+Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
-## Circuit Connection Diagram with Tabulation 
+Circuit Connection Diagram with Tabulation
+<img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/ac06f2a3-548e-433b-b78d-c3f15f31fedb" />
 
-<img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
+Output Waveform
+![WhatsApp Image 2026-03-17 at 7 03 02 PM (1)](https://github.com/user-attachments/assets/4f01d2a1-4ef7-4f1b-96dd-fba4b73517f1)
 
-## Output Waveform
+ENERGY METER
 
-
-
-
-## Result
-
-
-
-
-
-
-
+Result
+Thus the energy has been measured using Single Phase Energy Meter.
